@@ -156,15 +156,6 @@ add(lblIdConsulta); add(txtIdConsulta);
 
 ---
 
-## ▶️ Cómo ejecutar
-
-1. Abre el proyecto en **NetBeans**
-2. Ejecuta la clase `GestionConsultasMedicas.java`
-3. Inicia sesión con un usuario de `usuarios.txt`
-4. Usa las funcionalidades según tu rol
-
----
-
 ## 👨‍💻 Autor
 
 - **Nombre**: Santiago Barbosa
