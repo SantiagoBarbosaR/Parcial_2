@@ -161,13 +161,11 @@ add(lblIdConsulta); add(txtIdConsulta);
 ### Login
 
 ![image](https://github.com/user-attachments/assets/b67926d5-4c68-42c8-b6c8-21e2aa47c1a7)
-![image](https://github.com/user-attachments/assets/b67926d5-4c68-42c8-b6c8-21e2aa47c1a7)
 
 ---
 
 ### Menú principal (Admin)
 
-![image](https://github.com/user-attachments/assets/7e7921ac-fe73-4366-a45e-d8b50a2f9eab)
 ![image](https://github.com/user-attachments/assets/7e7921ac-fe73-4366-a45e-d8b50a2f9eab)
 
 ---
@@ -175,13 +173,11 @@ add(lblIdConsulta); add(txtIdConsulta);
 ### Menú principal (Médico)
 
 ![image](https://github.com/user-attachments/assets/3056ec5e-9ddf-4af1-bc41-c42282af2a17)
-![image](https://github.com/user-attachments/assets/3056ec5e-9ddf-4af1-bc41-c42282af2a17)
 
 ---
 
 ### Registro de paciente o médico
 
-![image](https://github.com/user-attachments/assets/71281d31-1104-41d3-8171-a4e2a391e60d)
 ![image](https://github.com/user-attachments/assets/71281d31-1104-41d3-8171-a4e2a391e60d)
 El de Paciente es igual pero sin contraseña, cambia segun el JComboBox
 
@@ -190,13 +186,11 @@ El de Paciente es igual pero sin contraseña, cambia segun el JComboBox
 ### Asignar consulta
 
 ![image](https://github.com/user-attachments/assets/67407386-aa8c-4b9d-9a50-5ece9017280e)
-![image](https://github.com/user-attachments/assets/67407386-aa8c-4b9d-9a50-5ece9017280e)
 
 ---
 
 ### Historial clínico
 
-![image](https://github.com/user-attachments/assets/5f20a1ba-6d57-475e-89f9-8673a42a8a06)
 ![image](https://github.com/user-attachments/assets/5f20a1ba-6d57-475e-89f9-8673a42a8a06)
 El histria cunado estamos en una seccion de medico es igual pero sin la opcion de ver consultas de medico ya que no tiene sentido que vea las consultas de otros medicos
 
