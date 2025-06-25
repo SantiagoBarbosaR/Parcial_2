@@ -1,12 +1,10 @@
 
 # 💉 Sistema de Gestión de Consultas Médicas
-
-Proyecto desarrollado como parte del curso de **Programación Orientada a Objetos (POO)**.  
 Permite gestionar pacientes, médicos y consultas en una clínica universitaria, usando Java, Swing y el patrón MVVM.
 
 ---
 
-## 🧠 Funcionalidades principales
+##  Funcionalidades principales
 
 - 🧾 Registro de pacientes y médicos
 - 👨‍⚕️ Asignación de consultas médicas
@@ -34,21 +32,6 @@ Permite gestionar pacientes, médicos y consultas en una clínica universitaria,
 ## ✅ Requisitos implementados (con ejemplos de código)
 
 ### 📐 Patrón MVVM
-
-```java
-// Desde PanelRegistro.java
-vm.registrarMedico(nombre, id, especialidad, password);
-```
-
-```java
-// En ClinicaViewModel.java
-public void registrarMedico(...) {
-    clinica.agregarMedico(medico); // ← Modelo
-    guardarEnUsuarios(id, password); // ← Persistencia
-}
-```
-
----
 
 ### 👨‍👩‍👧‍👦 Herencia / Composición / Asociación
 
