@@ -29,7 +29,7 @@ sistema para gestionar las consultas médicas en una clínica. El sistema debe p
 
 ---
 
-## ✅ Requisitos implementados (con ejemplos de código)
+## ✅ Requisitos implementados
 
 ### 📐 Patrón MVVM
 
@@ -122,16 +122,6 @@ public class CampoVacioException extends Exception {
 if (nombre.isEmpty() || id.isEmpty()) {
     throw new CampoVacioException("Todos los campos son obligatorios.");
 }
-```
-
----
-
-### 🖼️ Interfaz gráfica con Java Swing
-
-```java
-JLabel lblIdConsulta = new JLabel("ID Consulta:");
-JTextField txtIdConsulta = new JTextField();
-add(lblIdConsulta); add(txtIdConsulta);
 ```
 
 ---
