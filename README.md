@@ -205,13 +205,3 @@ add(lblIdConsulta); add(txtIdConsulta);
 
 ---
 
-## ✅ Conclusión
-
-Este sistema demuestra el uso completo de:
-- Principios POO
-- Arquitectura MVVM
-- Interfaces gráficas con Swing
-- Control de acceso por roles
-- Persistencia
-
-Listo para ser ejecutado y entregado.
