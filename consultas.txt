@@ -1,0 +1,2 @@
+1010;1000;1212;nada;nada;nada
+003;1313;1212;nada;nada;nada
