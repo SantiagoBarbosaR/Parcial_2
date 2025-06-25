@@ -179,6 +179,7 @@ add(lblIdConsulta); add(txtIdConsulta);
 ### Registro de paciente o médico
 
 ![image](https://github.com/user-attachments/assets/71281d31-1104-41d3-8171-a4e2a391e60d)
+
 El de Paciente es igual pero sin contraseña, cambia segun el JComboBox
 
 ---
@@ -192,7 +193,8 @@ El de Paciente es igual pero sin contraseña, cambia segun el JComboBox
 ### Historial clínico
 
 ![image](https://github.com/user-attachments/assets/5f20a1ba-6d57-475e-89f9-8673a42a8a06)
-El histria cunado estamos en una seccion de medico es igual pero sin la opcion de ver consultas de medico ya que no tiene sentido que vea las consultas de otros medicos
+
+El historial cunado estamos en una perfil de medico es igual pero sin la opcion de ver consultas de medico ya que no tiene sentido que vea las consultas de otros medicos
 
 ---
 
