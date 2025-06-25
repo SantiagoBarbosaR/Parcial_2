@@ -1,6 +1,6 @@
 
 # 💉 Sistema de Gestión de Consultas Médicas
-Permite gestionar pacientes, médicos y consultas en una clínica universitaria, usando Java, Swing y el patrón MVVM.
+sistema para gestionar las consultas médicas en una clínica. El sistema debe permitir registrar pacientes, asignar médicos a consultas, almacenar el historial de consultas, y permitir búsquedas por paciente o médico.
 
 ---
 
