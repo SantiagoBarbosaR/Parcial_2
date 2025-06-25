@@ -160,8 +160,7 @@ add(lblIdConsulta); add(txtIdConsulta);
 
 ### Login
 
-## 🎬 Video de Demostración
-[![Ver video](https://img.youtube.com/vi/9sx3q7LcKUA/0.jpg)](https://youtu.be/9sx3q7LcKUA)
+![image](https://github.com/user-attachments/assets/b67926d5-4c68-42c8-b6c8-21e2aa47c1a7)
 
 ---
 
@@ -173,7 +172,7 @@ add(lblIdConsulta); add(txtIdConsulta);
 
 ### Menú principal (Médico)
 
-
+![image](https://github.com/user-attachments/assets/3056ec5e-9ddf-4af1-bc41-c42282af2a17)
 
 ---
 
