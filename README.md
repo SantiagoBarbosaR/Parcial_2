@@ -167,8 +167,8 @@ add(lblIdConsulta); add(txtIdConsulta);
 
 ## 👨‍💻 Autor
 
-- **Nombre**: [TU NOMBRE AQUÍ]
-- **Curso**: Programación Orientada a Objetos – Parcial 2
+- **Nombre**: Santiago Barbosa
+- **Curso**: Programación Orientada a Objetos
 - **Fecha**: Junio 2025
 
 ---
@@ -212,6 +212,6 @@ Este sistema demuestra el uso completo de:
 - Arquitectura MVVM
 - Interfaces gráficas con Swing
 - Control de acceso por roles
-- Persistencia sin base de datos
+- Persistencia
 
 Listo para ser ejecutado y entregado.
